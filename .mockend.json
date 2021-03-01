@@ -18,5 +18,5 @@
     "users": "User[]",
     "tenant_key":"string"
   },
-  "User": "string"
+  "User": {"string"}
 }
