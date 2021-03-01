@@ -12,17 +12,16 @@
     "tenant_key":"string"
   },
   "Validate_company":{
-    "status":"200",
-    "is_registered":true,
-    "total_users":5,
+    "status":"int",
+    "is_registered":"boolean",
+    "total_users":"int",
     "user_emails":[
-       "rupesh@gmail.com",
-       "rupesh@gmail.comx",
-       "rupesh@gmail.comxx",
-       "rupesh@gmail.comxxx",
-       "1rupesh@gmail.com",
-      "11rupesh@gmail.com","111rupesh@gmail.com","112rupesh@gmail.com","rupesh@gmail.coxm","rupesh@gmailx.com"
+       "string",
+       "string",
+       "string",
+       "string",
+       "string"
     ],
-    "tenant_key":"waah.hivepayroll.in"
+    "tenant_key":"string"
   }
 }
