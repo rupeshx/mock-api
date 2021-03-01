@@ -1,8 +1,8 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "validate_user": {
+    "status": 200,
+    "is_registered": false,
+    "company_id": 55,
+    "tenant_key": "waah.openpayroll.app"
   }
 }
