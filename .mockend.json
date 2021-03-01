@@ -1,8 +1,13 @@
 {
-  "Validate_user": {
-    "status": 200,
-    "is_registered": false,
-    "company_id": 55,
-    "tenant_key": "waah.openpayroll.app"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
