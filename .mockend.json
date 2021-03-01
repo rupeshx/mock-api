@@ -15,8 +15,11 @@
     "status": "int",
     "is_registered":"boolean",
     "total_users":"int",
-    "users": "User[]",
+    "comments": "Comment[]",
     "tenant_key":"string"
   },
-  "User": {"string"}
+  "Comment": {
+      "body": "string",
+      "post": "Post"
+    }
 }
