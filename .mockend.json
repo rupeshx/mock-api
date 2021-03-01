@@ -9,5 +9,11 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Validate_user":{
+    "status":200,
+    "is_registered":false,
+    "company_id":55,
+    "tenant_key":"waah.openpayroll.app"
   }
 }
