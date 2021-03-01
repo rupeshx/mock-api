@@ -15,6 +15,8 @@
     "status": "int",
     "is_registered":"boolean",
     "total_users":"int",
+    "users": "User[]",
     "tenant_key":"string"
   }
+  "User": "string"
 }
