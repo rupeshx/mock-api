@@ -5,10 +5,10 @@
     "published": "boolean",
     "createdAt": "date"
   },
-  "Validate_users":{
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "Validate_user":{
+    "status":200,
+    "is_registered":false,
+    "company_id":55,
+    "tenant_key":"waah.openpayroll.app"
   }
 }
