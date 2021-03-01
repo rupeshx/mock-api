@@ -6,9 +6,9 @@
     "createdAt": "date"
   },
   "Validate_user":{
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "status":"int",
+    "is_registered":"boolean",
+    "company_id":"int",
+    "tenant_key":"string"
   }
 }
