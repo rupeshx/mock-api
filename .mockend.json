@@ -5,7 +5,7 @@
     "published": "boolean",
     "createdAt": "date"
   },
-  "Validate_user":{
+  "Validate_users":{
     "title": "string",
     "views": "int",
     "published": "boolean",
