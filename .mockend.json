@@ -12,16 +12,9 @@
     "tenant_key":"string"
   },
   "Validate_company":{
-    "status":"int",
+    "status": "int",
     "is_registered":"boolean",
     "total_users":"int",
-    "user_emails":[
-       "string",
-       "string",
-       "string",
-       "string",
-       "string"
-    ],
     "tenant_key":"string"
   }
 }
