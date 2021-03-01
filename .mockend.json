@@ -4,5 +4,11 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Comments":{
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
