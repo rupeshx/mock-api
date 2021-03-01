@@ -5,7 +5,7 @@
     "published": "boolean",
     "createdAt": "date"
   },
-  "Comments":{
+  "Comment":{
     "title": "string",
     "views": "int",
     "published": "boolean",
